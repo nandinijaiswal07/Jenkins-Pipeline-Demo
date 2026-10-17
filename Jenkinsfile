@@ -16,7 +16,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                echo 'Testing the project'
+                echo 'Edited Message for Testing Trigger Demonstration'
             }
         }
     }
